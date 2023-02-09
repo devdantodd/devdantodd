@@ -5,7 +5,6 @@ if(theme == null) {
 }else{
     setTheme(theme)
 }
-}
 
 let themeDots = document.getElementsByClassName('theme-dot')
 
